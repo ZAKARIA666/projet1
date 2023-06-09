@@ -75,4 +75,3 @@ app.post("/signup", (req, res) => {
       console.log(err);
     });
 });
-
